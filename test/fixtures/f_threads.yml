@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Subject: MyString
+  Date: 2014-06-05 15:37:15
+  Subcategory_id: 
+
+two:
+  Subject: MyString
+  Date: 2014-06-05 15:37:15
+  Subcategory_id: 
